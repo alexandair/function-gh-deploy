@@ -1,5 +1,5 @@
 using namespace System.Net
-# newer comment
+# newer comment2
 # Input bindings are passed in via param block.
 param($Request, $TriggerMetadata)
 
